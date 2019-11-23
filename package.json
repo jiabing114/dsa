@@ -1,0 +1,23 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "data structure and algorithm in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiabing114/dsa.git"
+  },
+  "keywords": [
+    "data",
+    "structure;algorithm;javascript"
+  ],
+  "author": "dm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiabing114/dsa/issues"
+  },
+  "homepage": "https://github.com/jiabing114/dsa#readme"
+}
